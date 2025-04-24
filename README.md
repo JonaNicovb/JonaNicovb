@@ -14,7 +14,7 @@
 ### 🛠 Tecnologías que uso frecuentemente
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,html,css,mysql,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,html,css,mysql,git,linux,vscode,excel" />
 </p>
 
 ---
