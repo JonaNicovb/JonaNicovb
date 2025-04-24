@@ -4,7 +4,8 @@
 ---
 
 - 🛡️ Actualmente trabajando en el área de **Proyectos T.I en Carabineros de Chile**
-- 🧰 Dominio en **Laravel**, PHP, MySQL, Bootstrap, Git, JavaScript y Linux.
+- 📌 Titulado del **Instituto Profesional San Sebastián (IPSS)** con desarrollo de una **plataforma web de agendamiento de citas médicas** para el consultorio de **Calera de Tango**.
+- 🧰 Dominio en **Laravel**, PHP, MySQL, Bootstrap, Git, JavaScript, Linux y **Excel avanzado**.
 - 🌱 Explorando **Laravel Octane**, **DevOps** y tecnologías de infraestructura para backend moderno.
 - 🎯 Enfocado en soluciones eficientes para organismos públicos y mejora continua de procesos.
 - 🤝 Abierto a colaborar en proyectos de impacto social o tecnológico.
@@ -14,7 +15,7 @@
 ### 🛠 Tecnologías que uso frecuentemente
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,html,css,mysql,git,linux,vscode,excel," />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,html,css,mysql,git,linux,vscode" />
 </p>
 
 ---
